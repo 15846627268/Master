@@ -9,8 +9,9 @@ Local
 Branch Dev;
 
 DEv
-<<<<<<< HEAD
+HEAD
 ¹þ¹þ¹þ
 =======
 °¢Ë¹¶Ù°¢Ë¹¶Ù°¡°¢Ë¹
->>>>>>> feature
+
+ feature
