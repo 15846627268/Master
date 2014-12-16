@@ -7,3 +7,4 @@ I had fixed bug101.
 
 
 °¢É£¡£
+Stash1
